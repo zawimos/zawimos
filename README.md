@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zawimos
 - 👀 I’m interested in game development 
-- 🌱 I’m currently learning Godot Engine and Unity
+- 🌱 I’m currently learning Godot Engine
 
 
 <!---
